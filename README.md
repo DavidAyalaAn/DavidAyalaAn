@@ -2,6 +2,8 @@
 
 I'm an Informatics Engineer currently transitioning into the world of Artificial Intelligence. After several years working in software and data-driven projects, I’ve shifted my focus toward Machine Learning, Natural Language Processing, and Computer Vision.
 
+<br/>
+
 🌱 What I’m working on
 - Building AI projects that explore applications in healthcare and precision medicine
 - Competing in Kaggle challenges to sharpen my skills
@@ -9,15 +11,15 @@ I'm an Informatics Engineer currently transitioning into the world of Artificial
 
 <br/>
 
-🛠️ Tech I use
-Python · PyTorch · TensorFlow · LangChain · Neo4j · Docker · WSL · VS Code
+💡 What drives me\
+I’m passionate about applying AI to solve real-world problems with social impact. My vision is to contribute to healthcare innovation through intelligent systems.
 
-💡 What drives me
-I’m passionate about applying AI to solve real-world problems with social impact. My long-term vision is to contribute to healthcare innovation through intelligent systems.
+<br/>
 
-📫 Let’s connect
-You can find me on LinkedIn or explore my repositories here - I document my learning journey and share projects as I grow deeper into AI.
+📫 Let’s connect\
+You can find me on <a href="https://www.linkedin.com/in/davidayala-an" target="_blank" rel="nofollow">LinkedIn</a> or explore my repositories here - I document my learning journey and share projects as I grow deeper into AI.
 
+<br/>
 
 Skill Set:
 ------
@@ -29,6 +31,7 @@ Languages & Syntax:
 <img src="https://img.shields.io/badge/-VisualBasic-05122A?style=flat&logo=visualbasic" />
 <img src="https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php" />
 </div>
+<br/>
 
 Data Science & Machine Learning
 <div dir="auto">
@@ -40,7 +43,7 @@ Data Science & Machine Learning
 <img src="https://img.shields.io/badge/langchain-05122A?style=flat&logo=langchain" />
 <img src="https://img.shields.io/badge/OpenCV-05122A?style=flat&logo=OpenCV" />
 </div>
-
+<br/>
 
 Database Management:
 <div dir="auto">
@@ -49,7 +52,7 @@ Database Management:
 <img src="https://img.shields.io/badge/MongoDB-05122A?style=flat&logo=mongodb" />
 <img src="https://img.shields.io/badge/Neo4j-05122A?style=flat&logo=neo4j" />
 </div>
-
+<br/>
 
 Deployment & Cloud Services:
 <div dir="auto">
@@ -62,12 +65,8 @@ Deployment & Cloud Services:
 </div>
 
 
-Other:
-<div dir="auto">
-<img src="https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown" />
-</div>
-
-
+<br/>
+<br/>
 
 Employer?
 >[!Important]
