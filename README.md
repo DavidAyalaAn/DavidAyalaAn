@@ -1,5 +1,22 @@
-## Hi there 👋
+## Hi there, I’m David Ayala 👋 
 
+I'm an Informatics Engineer currently transitioning into the world of Artificial Intelligence. After several years working in software and data-driven projects, I’ve shifted my focus toward Machine Learning, Natural Language Processing, and Computer Vision.
+
+🌱 What I’m working on
+- Building AI projects that explore applications in healthcare and precision medicine
+- Competing in Kaggle challenges to sharpen my skills
+- Experimenting with agentic AI systems, graph databases, and modern ML frameworks
+
+<br/>
+
+🛠️ Tech I use
+Python · PyTorch · TensorFlow · LangChain · Neo4j · Docker · WSL · VS Code
+
+💡 What drives me
+I’m passionate about applying AI to solve real-world problems with social impact. My long-term vision is to contribute to healthcare innovation through intelligent systems.
+
+📫 Let’s connect
+You can find me on LinkedIn or explore my repositories here - I document my learning journey and share projects as I grow deeper into AI.
 
 
 Skill Set:
@@ -54,7 +71,7 @@ Other:
 
 Employer?
 >[!Important]
-><a href="https://drive.google.com/file/d/1O7N9W27d7DKtH5Nd1XaOqmJ2Pdi-PgcE/view?usp=drive_link" rel="nofollow">Download my resume</a>
+><a href="https://drive.google.com/file/d/1O7N9W27d7DKtH5Nd1XaOqmJ2Pdi-PgcE/view?usp=drive_link" target="_blank" rel="nofollow">Download my resume</a>
 
 
 ----
